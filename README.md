@@ -1,5 +1,9 @@
 Nama : Raihan Maulana Adzani Siamto
 NIM  : 22230015
 Umur : 21 th
+
+
+
 #PRAKTIKUM KEAMANAN JARINGAN
-![Uploading WhatsApp Image 2025-04-16 at 16.15.44_6a0bd6f2.jpg…]()
+
+![GAMBAR1](https://github.com/user-attachments/assets/37d27d2d-dfe2-4dd4-800f-1151e2e55ebc)
